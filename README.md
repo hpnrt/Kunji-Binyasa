@@ -13,6 +13,6 @@ Unicode IME (Input Method Editor) for various Odia Keyboard layouts
 List of layouts
 ==========================================================================
 1. Shree Lipi Modular
-	a)Odia Modular with e kar and reph placement - This is the recommended one. Typing is exactly like Shree Lipi's system.
-	b)Odia Modular with e kar placement - Exists only for easier bug fixing. Not useful for general users.
-	c)Odia Modular Plain Unicode - Letters are exactly where they were on Shree Lipi's layout but vowel combining is Unicode style i.e exactly as it is read in Odia. So to type (ଧର୍ମେ) you have to type (R'al) instead of (Rla').
+  a)Odia Modular with e kar and reph placement - This is the recommended one. Typing is exactly like Shree Lipi's system.
+  b)Odia Modular with e kar placement - Exists only for easier bug fixing. Not useful for general users.
+  c)Odia Modular Plain Unicode - Letters are exactly where they were on Shree Lipi's layout but vowel combining is Unicode style i.e exactly as it is read in Odia. So to type (ଧର୍ମେ) you have to type (R'al) instead of (Rla').
