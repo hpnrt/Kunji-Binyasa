@@ -1416,12 +1416,12 @@ $l + ("swap_1") + <VK_SHIFT & VK_OEM_5> => $cbackslash + $l
 'ହ୍ଲ' + 'ା' + 'ର୍' => 'ର୍' + 'ହ୍ଲ' + 'ା'
 
 
-'ଅ' + 'ା' => 'ଆ'
-'ଖ' + 'Q' => 'ଖି'
-'ଥ' + 'Q' => 'ଥି'
-'ଧ' + 'Q' => 'ଧି'
-'କ' + 'Q' => 'ତ୍କ'
-'ନ' + 'Q' => 'ତ୍ନ'
-'ପ' + 'Q' => 'ତ୍ପ'
-'ମ' + 'Q' => 'ତ୍ମ'
-'ସ' + 'Q' => 'ତ୍ସ'
+'ଅ' + <VK_KEY_K> => 'ଆ'
+$cs + <VK_SHIFT & VK_KEY_Q> => $cs + $g
+$cf + <VK_SHIFT & VK_KEY_Q> => $cf + $g
+$cr + <VK_SHIFT & VK_KEY_Q> => $cr + $g
+'କ' + <VK_SHIFT & VK_KEY_Q> => 'ତ୍କ'
+'ନ' + <VK_SHIFT & VK_KEY_Q> => 'ତ୍ନ'
+'ପ' + <VK_SHIFT & VK_KEY_Q> => 'ତ୍ପ'
+'ମ' + <VK_SHIFT & VK_KEY_Q> => 'ତ୍ମ'
+'ସ' + <VK_SHIFT & VK_KEY_Q> => 'ତ୍ସ'
