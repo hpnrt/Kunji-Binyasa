@@ -1,5 +1,5 @@
-﻿/*
-@NAME = 'Modular_Odia'
+/*
+@NAME = 'Odia Unicode Modular'
 @DESCRIPTION = 'Modeled after Shree Lipi Utkal Layout'
 @ICON = ''
 @FONTFAMILY = ''
@@ -69,7 +69,9 @@ $cm = "ଲ"
 $cfour = "କ୍ଷ"
 $cbackslash = "ଞ"
 $caprostophe = "ଁ"
-'`' => " ।"
+
+$one = "୧"
+'`' => "।"
 '1' => "୧"
 '2' => "୨"
 '3' => "୩"
@@ -165,6 +167,18 @@ $caprostophe = "ଁ"
 <VK_SHIFT & VK_KEY_4> => $cfour
 <VK_SHIFT & VK_OEM_5> => $cbackslash
 <VK_SHIFT & VK_OEM_7> => $caprostophe
+
+
+<VK_NUMPAD0> => "5"
+<VK_NUMPAD1> => $one
+<VK_NUMPAD2> => '୨'
+<VK_NUMPAD3> => '୩'
+<VK_NUMPAD4> => '୪'
+<VK_NUMPAD5> => '୫'
+<VK_NUMPAD6> => '୬'
+<VK_NUMPAD7> => '୭'
+<VK_NUMPAD8> => '୮'
+<VK_NUMPAD9> => '୯'
 
 
 
